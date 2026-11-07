@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.1.0",
+    "latest_version": "1.2.0",
     "minimum_version": "1.0.0",
     "mandatory": false,
     "release_notes": "Theme and shot adjustification settings added. \nThe result of the series now depends on which series is being displayed",
