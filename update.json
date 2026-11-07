@@ -2,6 +2,6 @@
     "latest_version": "1.2.0",
     "minimum_version": "1.0.0",
     "mandatory": false,
-    "release_notes": "Theme and shot adjustification settings added. \nThe result of the series now depends which series is being displayed",
+    "release_notes": "Theme and shot adjustification settings added. \nThe result of the series now depends on which series is being displayed",
     "download_url": "https://github.com/TestifiedClicker/updates_public/releases/latest/download/shooting-diary.apk"
 }
